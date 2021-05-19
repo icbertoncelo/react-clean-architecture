@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Honda Civic",
+      "model": "Honda",
+      "color": "Preto"
+    },
+    {
+      "id": 2,
+      "name": "Gol",
+      "model": "Volkswagen",
+      "color": "Branco"
+    },
+    {
+      "name": "",
+      "model": "",
+      "color": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "model": "",
+      "color": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "model": "",
+      "color": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "model": "",
+      "color": "",
+      "id": 6
+    }
+  ]
+}
